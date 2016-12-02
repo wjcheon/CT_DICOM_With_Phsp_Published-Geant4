@@ -16,14 +16,14 @@ The Geant4 code is a simulation using CT images and Phsp file.
 <img src = https://github.com/wjcheon/CT_DICOM_With_Phsp-Geant4/blob/master/CTDicom-Geometry-Geant4-wjcheon.png />  
 Fig.1 Geometry of simulation: CT images was defined as geant4 physical volume in the World(System volume).  
 
-<img src = https://github.com/wjcheon/CT_DICOM_With_Phsp-Geant4/blob/master/CTDicom-BeamOn-Geant4-wjcheon.png />
+<img src = https://github.com/wjcheon/CT_DICOM_With_Phsp-Geant4/blob/master/CTDicom-BeamOn-Geant4-wjcheon.png />  
 Fig.2 Geometry of simulation when some particle was irradiated to phantom by reading phsp file.  
 
 
 
 
-date: 2016.12.2
-All rights of "DICOM example" reserved to  
+date: 2016.12.2  
+All rights of **"DICOM example"** reserved to  
 The DICOM application has been originally developed by the Geant4 users:  
 Louis Archambault,+Luc Beaulieu, ++Vincent Hubert-Tremblay.  
 
