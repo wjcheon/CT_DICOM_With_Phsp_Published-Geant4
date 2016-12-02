@@ -13,10 +13,10 @@ The Geant4 code is a simulation using CT images and Phsp file.
 
 
 ### Figure    
-<img src = https://github.com/wjcheon/CT_DICOM_With_Phsp-Geant4/blob/master/CTDicom-Geometry-Geant4-wjcheon.png />  
+<img src = https://github.com/wjcheon/CT_DICOM_With_Phsp_Published-Geant4/blob/master/CTDicom-Geometry-Geant4-wjcheon.png />  
 Fig.1 Geometry of simulation: CT images was defined as geant4 physical volume in the World(System volume).  
 
-<img src = https://github.com/wjcheon/CT_DICOM_With_Phsp-Geant4/blob/master/CTDicom-BeamOn-Geant4-wjcheon.png />  
+<img src = https://github.com/wjcheon/CT_DICOM_With_Phsp_Published-Geant4/blob/master/CTDicom-BeamOn-Geant4-wjcheon.png />  
 Fig.2 Geometry of simulation when some particle was irradiated to phantom by reading phsp file.  
 
 
@@ -43,10 +43,9 @@ Stephane Chauvie and Andrea Armando; June 2010 adapted for reading  whatever DIC
 Jonathan Madsen, Nov 2013: updated DICOM to utilize multithreading now available in Geant4.10  
 
 **The example (DICOM With Phsp) is modified and written by wjcheon.**  
-**If you have any question for this code, please send the e-mail to me.**  
+**If you want to take the codes, please send the e-mail to me. (source and header files are not contained)**  
 **plus, if you want to use this code for your research,**   
 ####**please let me know and add to authors in your paper.**   
-
 
 
 
